@@ -5,6 +5,7 @@ file: /courses/21h-224-law-and-society-in-us-history-spring-2003/92321952ea7a049
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Writing a Case Brief: One Approach'
 uid: 92321952-ea7a-0497-d301-4d7975e83002
 ---
 Guidelines for one approach to writing a case brief.
-

@@ -5,6 +5,7 @@ file: /courses/21h-224-law-and-society-in-us-history-spring-2003/b4956eb1e825511
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Fourth Writing Assignment
 uid: b4956eb1-e825-5117-5d63-bdd1f7554c2f
 ---
 Writing assignment on law and society in US history.
-

@@ -5,6 +5,7 @@ file: /courses/21h-224-law-and-society-in-us-history-spring-2003/7100713a65fa25d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'First Writing Assignment: Property Regulation in the Early Republic '
 uid: 7100713a-65fa-25d0-5d70-48cc194f7086
 ---
 Writing assignment on property regulation in the Early Republic.
-
