@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides details on the four writing assignments for the
+  course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: b199e773-4d87-9e25-26d7-87cc85cd9568
 ---
@@ -7,7 +12,7 @@ uid: b199e773-4d87-9e25-26d7-87cc85cd9568
 First Assignment
 ----------------
 
-PDF Version ([PDF]({{< baseurl >}}/resources/lawandsocfiragnment203))
+PDF Version ({{% resource_link 7100713a-65fa-25d0-5d70-48cc194f7086 "PDF" %}})
 
 **Property Regulation in the Early Republic**
 
@@ -20,7 +25,7 @@ Choose **one** of the following two assignments. Your paper is due in Class 8. Y
 Second Assignment
 -----------------
 
-PDF Version ([PDF]({{< baseurl >}}/resources/lawandsocsecagnment303))
+PDF Version ({{% resource_link 57a1613b-c1f5-86eb-965a-512e3b719091 "PDF" %}})
 
 **The Strange Career of the Fourteenth Amendment**
 
@@ -35,7 +40,7 @@ Choose **one** of the following three assignments. Your paper should be five to 
 Third Assignment
 ----------------
 
-PDF Version ([PDF]({{< baseurl >}}/resources/lawandsocthiagnment403))
+PDF Version ({{% resource_link e46f9ff9-38a9-ad76-57d2-efcf2739adc4 "PDF" %}})
 
 Choose **one** of the following three assignments. Your paper is due in Class 23. You may submit the paper in class one day before the due date, or by email attachment. If you send the paper by attachment, you must keep a backup paper copy and be ready to submit that if there are any computer difficulties. Extensions will be granted only for good reasons explained well in advance; computer malfunctions are never an acceptable excuse for a late submission. Adherence to standards of academic honesty is required; please exercise special care with sources found on the worldwide web. You may use any citation system that you wish (MLA parenthetical reference style, _Chicago Manual of Style_, legal citation), as long as your references are clear and complete.
 
@@ -48,7 +53,7 @@ Choose **one** of the following three assignments. Your paper is due in Class 23
 Fourth Assignment
 -----------------
 
-PDF Version ([PDF]({{< baseurl >}}/resources/lawandsocfouagnment503))
+PDF Version ({{% resource_link b4956eb1-e825-5117-5d63-bdd1f7554c2f "PDF" %}})
 
 Choose **one** of the following three assignments. Your paper (5-6 pages) is due in Class 28. You may submit the paper in class one day before the due date, or by email attachment. If you send the paper by attachment, you must keep a backup paper copy and be ready to submit that if there are any computer difficulties. Extensions will be granted only for good reasons explained well in advance; computer malfunctions are never an acceptable excuse for a late submission. Adherence to standards of academic honesty is required; please exercise special care with sources found on the worldwide web. You may use any citation system that you wish (MLA parenthetical reference style, _Chicago Manual of Style_, legal citation), as long as your references are clear and complete.
 

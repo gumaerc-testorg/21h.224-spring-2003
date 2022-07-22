@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a a bibliography of course texts, additional readings,
+  and links to cases.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 2d1d7669-3a7a-befa-dce1-29a828d1f5ee
 ---
@@ -75,7 +80,7 @@ Zinn, Howard. _A People's History of the United States, 1492-Present._ Rev. ed. 
 Court Cases
 -----------
 
-Case Brief Template ([PDF]({{< baseurl >}}/resources/lawandsocbriamplate203))
+Case Brief Template ({{% resource_link 92321952-ea7a-0497-d301-4d7975e83002 "PDF" %}})
 
 [_Abrams et al. v. U.S._](http://caselaw.lp.findlaw.com/scripts/getcase.pl?navby=case&court=us&vol=250&page=616), 250 U.S. 616 (1919).
 

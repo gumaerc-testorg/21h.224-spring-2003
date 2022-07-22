@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, requirements, and books.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: f7581ea4-9881-783e-18df-ce2b1515a6a5
 ---
@@ -14,7 +18,7 @@ Syllabus Archive
 
 The following syllabi come from a variety of different terms. They illustrate the evolution of this course over time, and are intended to provide alternate views into the instruction of this course.
 
-> Spring 2003, Christopher Capozzola ([PDF]({{< baseurl >}}/resources/mit21h_224s03_sylls03))
+> Spring 2003, Christopher Capozzola ({{% resource_link f334dc76-301d-ea69-c741-6d3df0a17d29 "PDF" %}})
 
 Course Description
 ------------------
