@@ -2,6 +2,7 @@
 content_type: resource
 description: Writing assignment on the history of the Fourteenth Amendment.
 file: /courses/21h-224-law-and-society-in-us-history-spring-2003/57a1613bc1f586eb965a512e3b719091_lawandsocsecagnment303.pdf
+file_size: 81569
 file_type: application/pdf
 learning_resource_types:
 - Assignments
