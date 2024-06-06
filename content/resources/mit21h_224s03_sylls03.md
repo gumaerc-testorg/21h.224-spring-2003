@@ -3,6 +3,7 @@ content_type: resource
 description: This syllabus provides a course description and information on books,
   requirements, and the course schedule.
 file: /courses/21h-224-law-and-society-in-us-history-spring-2003/f334dc76301dea69c7416d3df0a17d29_MIT21H_224s03_sylls03.pdf
+file_size: 152216
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

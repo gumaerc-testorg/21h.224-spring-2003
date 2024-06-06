@@ -2,6 +2,7 @@
 content_type: resource
 description: Writing assignment on property regulation in the Early Republic.
 file: /courses/21h-224-law-and-society-in-us-history-spring-2003/7100713a65fa25d05d7048cc194f7086_lawandsocfiragnment203.pdf
+file_size: 193284
 file_type: application/pdf
 learning_resource_types:
 - Assignments
