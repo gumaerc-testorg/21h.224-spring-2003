@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Guidelines for one approach to writing a case brief.
-file: /courses/21h-224-law-and-society-in-us-history-spring-2003/92321952ea7a0497d3014d7975e83002_lawandsocbriamplate203.pdf
+file: /ol-ocw-studio-app/courses/21h-224-law-and-society-in-us-history-spring-2003/92321952ea7a0497d3014d7975e83002_lawandsocbriamplate203.pdf
 file_size: 67435
 file_type: application/pdf
 learning_resource_types:
