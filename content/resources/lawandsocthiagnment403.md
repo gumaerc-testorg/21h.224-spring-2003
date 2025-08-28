@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Writing assignment on law and society in US history.
-file: /courses/21h-224-law-and-society-in-us-history-spring-2003/e46f9ff938a9ad7657d2efcf2739adc4_lawandsocthiagnment403.pdf
+file: /ol-ocw-studio-app/courses/21h-224-law-and-society-in-us-history-spring-2003/e46f9ff938a9ad7657d2efcf2739adc4_lawandsocthiagnment403.pdf
 file_size: 424940
 file_type: application/pdf
 learning_resource_types:
