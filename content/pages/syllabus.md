@@ -35,7 +35,7 @@ Writing assignments are frequent, but short. All students will submit a case bri
 Books
 -----
 
-Copies of all required books have been placed on reserve in the Humanities Library. Most of the cases listed are included in Hall et al., eds., _American Legal History_. Recent cases can be found online at [http://www.findlaw.com](http://www.findlaw.com/). Readings should be completed by the beginning of the class under which they appear, unless otherwise stated.
+Copies of all required books have been placed on reserve in the Humanities Library. Most of the cases listed are included in Hall et al., eds., _American Legal History_. Recent cases can be found online at {{% resource_link "84d883ee-c290-414a-9327-098c7772a8c8" "http://www.findlaw.com" %}}. Readings should be completed by the beginning of the class under which they appear, unless otherwise stated.
 
 *   Hall, Kermit, et al., eds. _American Legal History: Cases and Materials_. 2nd ed. New York: Oxford University Press, 1996.
 *   Garraty, John A., ed. _Quarrels That Have Shaped the Constitution_. 2nd ed. New York: Perennial Library, 1987.
