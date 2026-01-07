@@ -122,7 +122,7 @@ Hall, Kermit, et al., eds. *American Legal History*. Pp. 255-260, 264-268.
 
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "5b3fa227-ec78-4aef-94aa-3f96cc8f33f7" "*Johnson v. M'Intosh*" %}}, 21 U.S. 543 (1823).
+[*Johnson v. M'Intosh*](http://www.casebriefs.com/blog/law/property/property-law-keyed-to-dukeminier/first-possession-acquisition-of-property-by-discovery-capture-and-creation/johnson-v-mintosh/), 21 U.S. 543 (1823).
 
 *Cherokee Nation v. Georgia*, 30 U.S. 1 (1831).
 
@@ -178,7 +178,7 @@ Woodward, C. Vann. "The Case of the Louisiana Traveler." In *Quarrels*…, by Ga
 
 *The Civil Rights Cases*, 109 U.S. 3 (1883).
 
-{{% resource_link "599d341e-014d-4e3c-adb0-651558f4290a" "*Plessy v. Ferguson*" %}}, 163 U.S. 537 (1896).
+[*Plessy v. Ferguson*](https://www.oyez.org/cases/1850-1900/163us537), 163 U.S. 537 (1896).
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -196,13 +196,13 @@ Hall, Kermit, et al., eds. *American Legal History*. Pp. 260-264, 268-271.
 
 *Yick Wo v. Hopkins*, 118 U.S. 356 (1886).
 
-{{% resource_link "19dcc348-8667-4f25-b22e-1644ec29c930" "*Bradwell v. Illinois*" %}}, 83 U.S. 130 (1873).
+[*Bradwell v. Illinois*](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=83&invol=130), 83 U.S. 130 (1873).
 
 *Minor v. Happersett*, 88 U.S. 162 (1875).
 
-{{% resource_link "9739c328-f960-40da-aa15-2a662b39090c" "*United States v. Schwimmer*" %}}, 279 U.S. 644 (1929).
+[*United States v. Schwimmer*](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=279&invol=644), 279 U.S. 644 (1929).
 
-{{% resource_link "bc2d4696-bdca-486e-9a87-f5abfd0dbcda" "*Ozawa v. United States*" %}}, 260 U.S. 178 (1922).
+[*Ozawa v. United States*](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=260&invol=178), 260 U.S. 178 (1922).
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -254,7 +254,7 @@ Hall, Kermit, et al., eds. *American Legal History*. Pp. 455-457, 470-478, 482-4
 
 *West Coast Hotel v. Parrish*, 300 U.S. 379 (1937).
 
-{{% resource_link "e596862e-69ef-408e-826f-b21c046c881d" "*NLRB v. Jones and Laughlin Steel Co*" %}}., 301 U.S. 1 (1937).
+[*NLRB v. Jones and Laughlin Steel Co*](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=301&invol=1)., 301 U.S. 1 (1937).
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -302,13 +302,13 @@ Delgado, Richard, and Jean Stefancic. "'The Speech We Hate': The Romantic Appeal
 
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "694740af-ba25-4239-a101-d46c5eec06c6" "*Chaplinsky v. State of New Hampshire*" %}}, 315 U.S. 568 (1942).
+[*Chaplinsky v. State of New Hampshire*](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=315&invol=568), 315 U.S. 568 (1942).
 
-{{% resource_link "3f9723f9-24b5-4e39-b545-1d8dfbac64c7" "*Terminiello v. City of Chicago*" %}}, 337 U.S. 1 (1949).
+[*Terminiello v. City of Chicago*](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=337&invol=1), 337 U.S. 1 (1949).
 
-{{% resource_link "733d55a0-86fc-46a1-8540-11b0ca28edbf" "*National Socialist Party of America v. Village of Skokie*" %}}, 434 U.S. 1327 (1977).
+[*National Socialist Party of America v. Village of Skokie*](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=434&invol=1327), 434 U.S. 1327 (1977).
 
-{{% resource_link "87eea669-537c-4af4-afa5-7b4e242f292b" "*Texas v. Johnson*" %}}, 491 U.S. 397 (1989).
+[*Texas v. Johnson*](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=491&invol=397), 491 U.S. 397 (1989).
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -341,11 +341,11 @@ Same as above
 Readings on vouchers to be announced based on developments in the US Supreme Court.
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "0c73c2f4-5b50-4323-a36d-1ff236acffb0" "*Wisconsin v. Yoder*" %}}, 406 US 208 (1972).
+[*Wisconsin v. Yoder*](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=406&invol=205), 406 US 208 (1972).
 
-{{% resource_link "c61f04b4-e282-43e3-8c1e-9ff07f77a9ba" "*Board of Ed. of Kiryas Joel Village School District v. Grumet*" %}}, 512 U.S. 687 (1994).
+[*Board of Ed. of Kiryas Joel Village School District v. Grumet*](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=000&invol=u10355), 512 U.S. 687 (1994).
 
-{{% resource_link "9942285b-bd35-4009-b71c-2a7a793c0230" "*Zelman v. Simmons-Harris*" %}}, 536 U.S. \_\_\_ (2002).
+[*Zelman v. Simmons-Harris*](http://www.law.cornell.edu/supct/html/00-1751.ZS.html), 536 U.S. \_\_\_ (2002).
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -439,7 +439,7 @@ Filene, Peter G. *In the Arms of Others: A Cultural History of the Right-to-Die 
 
 *Planned Parenthood of Southeastern Pa. v. Casey*, 505 U.S. 833 (1992).
 
-{{% resource_link "bfc62e16-5743-43cb-973f-55c04f69b262" "*Cruzan v. Director, Missouri Department of Health*" %}}, 497 U.S. 621 (1990).
+[*Cruzan v. Director, Missouri Department of Health*](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=497&invol=261), 497 U.S. 621 (1990).
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -497,7 +497,7 @@ Readings on Title IX to be announced based on developments this spring.
 
 *Meritor Savings Bank v. Vinson*, 477 U.S. 57 (1986).
 
-{{% resource_link "8cfdc29e-394a-4fa2-bb0d-18b34e961dda" "*U.S. v. Virginia*" %}}, 518 U.S. 515 (1996).
+[*U.S. v. Virginia*](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=000&invol=u20026), 518 U.S. 515 (1996).
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -513,7 +513,7 @@ Hall, Kermit, et al., eds. *American Legal History*. Pp. 570-574.
 
 {{< tdclose >}}{{< tdopen >}}
 
-{{% resource_link "8eb17f0f-532f-476b-85be-88764c740c8c" "*Loving v. Virginia*" %}}, 388 U.S. 1 (1967).
+[*Loving v. Virginia*](http://caselaw.lp.findlaw.com/scripts/getcase.pl?court=US&vol=388&invol=1), 388 U.S. 1 (1967).
 
 *Bowers v. Hardwick*, 478 U.S. 186 (1986).
 
@@ -521,7 +521,7 @@ Hall, Kermit, et al., eds. *American Legal History*. Pp. 570-574.
 
 *Romer v. Evans*, 517 U.S. 620 (1996).
 
-{{% resource_link "4713db6c-02eb-41d5-ad94-3675475a58bf" "*Baker v. State of Vermont*" %}}, 744 A.2d 865 (Vt. 1999).
+[*Baker v. State of Vermont*](https://caselaw.findlaw.com/vt-supreme-court/1131833.html), 744 A.2d 865 (Vt. 1999).
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -561,9 +561,9 @@ Dionne, E. J., Jr., and William Kristol, eds. Bush v. Gore: The Court Cases and 
 
 *U.S. v. Nixon*, 418 U.S. 683 (1974).
 
-{{% resource_link "21a2d742-f1f0-4a86-b878-af900dbe820e" "*Clinton v. Jones*" %}}, 520 U.S. 681 (1997).
+[*Clinton v. Jones*](http://www.law.cornell.edu/supct/html/95-1853.ZS.html), 520 U.S. 681 (1997).
 
-{{% resource_link "72dba288-69af-4124-bd41-8e4850ff7f2a" "*Bush v. Gore*" %}}, 531 U.S. \_\_\_\_ (2000).
+[*Bush v. Gore*](http://www.law.cornell.edu/supct/html/00-949.ZPC.html), 531 U.S. \_\_\_\_ (2000).
 
 {{< tdclose >}}{{< tdopen >}}
  
